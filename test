@@ -9,13 +9,7 @@
       "title": "Prologue",
       "volume": "1",
       "groups": {
-        "batotoscans | crossface": 
-[
-                    "<https://bato.to/group/123",
-                    "<https://bato.to/user/361495/>",
-                    ...
-                    ]
-                    "/proxy/api/imgur/chapter/nrW1QBo/"
+        "batotoscans | crossface": "/proxy/api/imgur/chapter/nrW1QBo/"
       },
       "last_updated": "1614227535"
     },
